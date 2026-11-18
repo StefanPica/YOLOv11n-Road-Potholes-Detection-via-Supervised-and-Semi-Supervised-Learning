@@ -1,0 +1,4 @@
+ultralytics>=8.3,<9
+ImageHash>=4.3,<5
+PyYAML>=6,<7
+faster-coco-eval>=1.6.7
